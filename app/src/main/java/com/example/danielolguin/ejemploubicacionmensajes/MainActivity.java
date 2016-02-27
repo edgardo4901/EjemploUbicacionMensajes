@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
     public static MainActivity INSTANCE = null;
     CountDownTimer timer1 = null;
     long Duracion = 120000;
-    long Duracion2 = 120000;
     long tiempoGuardado;
     long TiempoAgregado = 0;
     GPSTracker gps;
